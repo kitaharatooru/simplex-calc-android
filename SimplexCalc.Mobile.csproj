@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#365FE8" BaseSize="128,128" />
+    <PackageReference Include="Microsoft.Maui.Controls" Version="10.0.110" />
   </ItemGroup>
 
 </Project>
